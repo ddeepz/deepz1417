@@ -1,0 +1,49 @@
+ut type="submit" value="submit">
+            </form>
+
+            <br>
+            <br>
+            <br><br>
+
+            <table border="1">
+                <tr>
+                 
+                    <th>header 1</th>
+                   </th>header 2</th>
+                   <th>header 3</th>
+                   <th>header 4</th>
+                   <th>header 5</th>
+                </tr>
+                <tr>
+                    <td>fang , column 1</td>
+                   </td> sakshi , column 2</td>
+                   <td> lee, column 3</td>
+                   <td> alien , column 4</td>
+                   <td> step mom , column 5</td>
+
+                </tr>
+            </table>
+
+          <br><br><br>
+
+            <ol>
+                <li>biriyani</li>
+                <li>fried rice</li>
+                <li>noodles</li>
+                <li> tandoori</li>
+                <li> barbie quee</li>
+            </ol>
+
+
+            <br><br><br>
+
+
+            <ol>
+                <li> purple</li>
+                <li>  peech</li>
+                <li> voilet</li>
+                <li>  aash</li>
+                <li>  black</li>
+            </ol>
+                </body>
+           </html>
